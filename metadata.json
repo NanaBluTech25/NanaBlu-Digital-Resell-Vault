@@ -1,0 +1,8 @@
+{
+  "name": "NanaBlu Digital Resell Vault LP",
+  "description": "Premium digital resell vault and digital products landing page styled in signature royal blue and white.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
